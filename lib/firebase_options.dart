@@ -50,20 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCtBD9_1ZatjTiFumG1f0W8Whv8ZIiN2Qg',
-    appId: '1:876965165105:web:e00d5ffa43f95ed1f9fd10',
-    messagingSenderId: '876965165105',
-    projectId: 'notificaciones-e1052',
-    authDomain: 'notificaciones-e1052.firebaseapp.com',
-    storageBucket: 'notificaciones-e1052.firebasestorage.app',
-    measurementId: 'G-Y3FT50BRSF',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCapXchy6s1TXHYgiBG79FR7kHpE7k0yv4',
-    appId: '1:876965165105:android:4c425d9876ae1ab9f9fd10',
-    messagingSenderId: '876965165105',
-    projectId: 'notificaciones-e1052',
-    storageBucket: 'notificaciones-e1052.firebasestorage.app',
+      apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
